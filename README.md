@@ -1,5 +1,16 @@
 # CORS 2021 Deep Learning hands-on tutorial
 
-First half of the session: follow the `from_scratch.ipynb` notebook.
+This tutorial in meant to be run using [Google colab](https://colab.research.google.com/).
+
+Note: you can install [pytorch+matplotlib+jupyter](https://timoast.github.io/blog/installing-pytorch/) to run the notebooks locally if you prefer, however this is at your own risks as we will not be able to provide any support for the installation during the tutorial.
+
+# From scratch
+
+The first 30 minutes of the session will be dedicated to building and training a small neural network from scratch in PyTorch. To start please open Google colab, then choose File -> Import Notebook and copy-paste the following URL:
+https://github.com/gasse/cors_2021_tutorial/blob/main/from_scratch.ipynb
+
+Then, activate GPU execution by choosing Runtime -> Change runtime type -> GPU.
+
+# MNIST
 
 Second half of the session: follow the `mnist.ipynb` notebook.
