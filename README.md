@@ -16,4 +16,10 @@ https://github.com/gasse/cors_2021_tutorial/blob/main/from_scratch.ipynb
 
 # MNIST
 
-Second half of the session: follow the `mnist.ipynb` notebook.
+For the second half of the session, we will train a state-of-the-art neural network in PyTorch, to tackle the [MNIST](http://yann.lecun.com/exdb/mnist/index.html) digit recogition task.
+
+To start please open Google colab, follow the next steps:
+1. Choose File -> Import Notebook and copy-paste the following URL and press the search button
+https://github.com/gasse/cors_2021_tutorial/blob/main/mnist.ipynb
+2. Select File -> Save a copy to Drive
+3. Activate GPU execution by choosing Runtime -> Change runtime type -> GPU
