@@ -6,10 +6,13 @@ Note: you can install [pytorch+matplotlib+jupyter](https://timoast.github.io/blo
 
 # From scratch
 
-The first 30 minutes of the session will be dedicated to building and training a small neural network from scratch in PyTorch. To start please open Google colab, then choose File -> Import Notebook and copy-paste the following URL:
-https://github.com/gasse/cors_2021_tutorial/blob/main/from_scratch.ipynb
+The first 30 minutes of the session will be dedicated to building and training a small neural network from scratch in PyTorch.
 
-Then, activate GPU execution by choosing Runtime -> Change runtime type -> GPU.
+To start please open Google colab, follow the next steps:
+1. Choose File -> Import Notebook and copy-paste the following URL and press the search button
+https://github.com/gasse/cors_2021_tutorial/blob/main/from_scratch.ipynb
+2. Select File -> Save a copy to Drive
+3. Activate GPU execution by choosing Runtime -> Change runtime type -> GPU
 
 # MNIST
 
